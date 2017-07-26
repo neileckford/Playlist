@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Playlists>
+  <Playlist ID="neil1">
+	  <Track id="Track 1">
+		  <Title>Track 1 title</Title>
+		  <Artist>Artist 1</Artist>
+		  <Genre>Genre 1</Genre>
+	  </Track>
+	  <Track id="Track 2">
+		  <Title>Track 2 title</Title>
+		  <Artist>Artist 2</Artist>
+		  <Genre>Genre 2</Genre>
+	  </Track>
+  </Playlist>
+</Playlists>

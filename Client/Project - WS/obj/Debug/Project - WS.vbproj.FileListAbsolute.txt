@@ -1,0 +1,30 @@
+c:\users\mafa\documents\visual studio 2015\Projects\Project - WS\Project - WS\obj\Debug\Project - WS.vbprojResolveAssemblyReference.cache
+c:\users\mafa\documents\visual studio 2015\Projects\Project - WS\Project - WS\obj\Debug\Project___WS.Form1.resources
+c:\users\mafa\documents\visual studio 2015\Projects\Project - WS\Project - WS\obj\Debug\Project___WS.Form2.resources
+c:\users\mafa\documents\visual studio 2015\Projects\Project - WS\Project - WS\obj\Debug\Project___WS.Resources.resources
+c:\users\mafa\documents\visual studio 2015\Projects\Project - WS\Project - WS\obj\Debug\Project - WS.vbproj.GenerateResource.Cache
+c:\users\mafa\documents\visual studio 2015\Projects\Project - WS\Project - WS\bin\Debug\Project - WS.exe
+c:\users\mafa\documents\visual studio 2015\Projects\Project - WS\Project - WS\bin\Debug\Project - WS.pdb
+c:\users\mafa\documents\visual studio 2015\Projects\Project - WS\Project - WS\bin\Debug\Project - WS.xml
+c:\users\mafa\documents\visual studio 2015\Projects\Project - WS\Project - WS\obj\Debug\Project - WS.exe
+c:\users\mafa\documents\visual studio 2015\Projects\Project - WS\Project - WS\obj\Debug\Project - WS.xml
+c:\users\mafa\documents\visual studio 2015\Projects\Project - WS\Project - WS\obj\Debug\Project - WS.pdb
+c:\users\mafa\documents\visual studio 2015\Projects\Project - WS\Project - WS\obj\Debug\Project___WS.Form3.resources
+C:\Users\mafa\Documents\Visual Studio 2015\Projects\Project - WS\Project - WS\obj\Debug\Project___WS.Form4.resources
+C:\Users\mafa\Documents\Visual Studio 2015\Projects\Project - WS\Project - WS\obj\Debug\Project___WS.Form5.resources
+C:\Users\mafa\Documents\Visual Studio 2015\Projects\Project - WS\Project - WS\bin\Debug\Project - WS.exe.config
+C:\Users\Novatekk\Documents\UWS\Web Services\FinalProject\Project - WS\Project - WS\bin\Debug\Project - WS.exe.config
+C:\Users\Novatekk\Documents\UWS\Web Services\FinalProject\Project - WS\Project - WS\obj\Debug\Project - WS.exe
+C:\Users\Novatekk\Documents\UWS\Web Services\FinalProject\Project - WS\Project - WS\obj\Debug\Project - WS.xml
+C:\Users\Novatekk\Documents\UWS\Web Services\FinalProject\Project - WS\Project - WS\obj\Debug\Project - WS.pdb
+C:\Users\Novatekk\Documents\UWS\Web Services\FinalProject\Project - WS\Project - WS\bin\Debug\Project - WS.exe
+C:\Users\Novatekk\Documents\UWS\Web Services\FinalProject\Project - WS\Project - WS\bin\Debug\Project - WS.pdb
+C:\Users\Novatekk\Documents\UWS\Web Services\FinalProject\Project - WS\Project - WS\bin\Debug\Project - WS.xml
+C:\Users\Novatekk\Documents\UWS\Web Services\FinalProject\Project - WS\Project - WS\obj\Debug\Project - WS.vbprojResolveAssemblyReference.cache
+C:\Users\Novatekk\Documents\UWS\Web Services\FinalProject\Project - WS\Project - WS\obj\Debug\Project___WS.Form1.resources
+C:\Users\Novatekk\Documents\UWS\Web Services\FinalProject\Project - WS\Project - WS\obj\Debug\Project___WS.Form2.resources
+C:\Users\Novatekk\Documents\UWS\Web Services\FinalProject\Project - WS\Project - WS\obj\Debug\Project___WS.Form3.resources
+C:\Users\Novatekk\Documents\UWS\Web Services\FinalProject\Project - WS\Project - WS\obj\Debug\Project___WS.Form4.resources
+C:\Users\Novatekk\Documents\UWS\Web Services\FinalProject\Project - WS\Project - WS\obj\Debug\Project___WS.Form5.resources
+C:\Users\Novatekk\Documents\UWS\Web Services\FinalProject\Project - WS\Project - WS\obj\Debug\Project___WS.Resources.resources
+C:\Users\Novatekk\Documents\UWS\Web Services\FinalProject\Project - WS\Project - WS\obj\Debug\Project - WS.vbproj.GenerateResource.Cache

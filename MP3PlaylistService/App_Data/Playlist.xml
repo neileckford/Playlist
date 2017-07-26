@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="StyleSheetTemplate.xsl" type="text/xsl" ?>
+<PlaylistService>
+  <Client name="hedwig">
+    <Playlist name="Neil1">
+      <NumberOfRatings>0</NumberOfRatings>
+      <TotalRating>0</TotalRating>
+      <Rating>4</Rating>
+      <Track id="Track 1">
+        <Title>Track 1 title</Title>
+        <Artist>artist 1</Artist>
+        <Genre>genre 1</Genre>
+      </Track>
+      <Track id="Track 2">
+        <Title>Track 2 title</Title>
+        <Artist>artist 2</Artist>
+        <Genre>genre 2</Genre>
+      </Track>
+    </Playlist>
+    <Playlist name="marcel1">
+      <NumberOfRatings>1</NumberOfRatings>
+      <TotalRating>0</TotalRating>
+      <Rating>2</Rating>
+      <Track id="Track 1">
+        <Title>Marcel Track 1 title</Title>
+        <Artist>marcels favourite artist 1</Artist>
+        <Genre>Favourite genre</Genre>
+      </Track>
+      <Track id="Track 2">
+        <Title>Marcel Track 2 title</Title>
+        <Artist>marcels favourite artist 2</Artist>
+        <Genre>Favourite genre2</Genre>
+      </Track>
+    </Playlist>
+  </Client>
+</PlaylistService>

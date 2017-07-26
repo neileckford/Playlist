@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<?xml-stylesheet href="StyleSheetTemplate.xsl" type="text/xsl" ?>
+<PlaylistService>
+	<ServiceName>File Sharing Extrondonaire</ServiceName>
+	<Clients>
+	<Client name='Neil'>
+		<Playlist name="Neil1">
+			<Track id="Track 1">
+				<Title>Track 1 title</Title>
+			</Track>
+			<Track id="Track 2">
+				<Title>Track 2 title</Title>
+			</Track>
+			<Ranking>2</Ranking>
+		</Playlist>
+		<Playlist name="Neil2">
+			<Track id="Track 1">
+				<Title>List 2 Track 1 title</Title>
+			</Track>
+			<Track id="Track 2">
+				<Title>List 2 Track 2 title</Title>
+			</Track>
+			<Ranking>4</Ranking>
+		</Playlist>
+	</Client>
+	<Client name='Marcelis'>
+		<Playlist name="marcel1">
+			<Track id="Track 1">
+				<Title>Marcel Track 1 title</Title>
+			</Track>
+			<Track id="Track 2">
+				<Title>Marcel Track 2 title</Title>
+			</Track>
+			<Ranking>2</Ranking>
+		</Playlist>
+		<Playlist name="marcel2">
+			<Track id="Track 1">
+				<Title>List 2 Track 1 title</Title>
+			</Track>
+			<Track id="Track 2">
+				<Title>Marcels Track 2 title</Title>
+			</Track>
+			<Ranking>2</Ranking>
+		</Playlist>
+	</Client>
+	</Clients>
+</PlaylistService>
